@@ -20,11 +20,8 @@
  
  
  
-###   🌱 I'm currently Learning 
+##   🌱 I'm currently Learning 
 #####   Typescript | Webpack | Jest Mocks | SOLID principles
- #####  Non Stop caffeine ☕
          
-##### 📭 Lucas Cavaleiro lucas.oklp@gmail.com
-##### 🎞️🎞️ Youtube chanel 🎞️🎞️
-    
-##### <a href="https://www.youtube.com/watch?v=e_UX89TAR1Y&t=51s" target="_blank">click to see my video</a>
+##### 📭  ucas Cavaleiro lucas.oklp@gmail.com
+##### 🎞️🎞️ Youtube chanel 🎞️🎞️  👉 href="https://www.youtube.com/watch?v=e_UX89TAR1Y&t=51s" target="_blank">click to see my video</a>
