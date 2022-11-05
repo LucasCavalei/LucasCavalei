@@ -1,5 +1,5 @@
 
-## 👋 Hi, I’m Lucas Cavaleiro
+## 👋 Hey, I’m Lucas Cavaleiro
 
  I'm looking for a  full stack entry level  remote job.<br />
  English | Full-time available | Comunication | Teamwork <br />
