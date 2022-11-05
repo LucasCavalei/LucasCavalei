@@ -1,17 +1,17 @@
 
 ## 👋 Hi, I’m Lucas Cavaleiro
 
- I'm looking for a  full stack entry level  remote job.
- interpersonal skills, emotion inteligence.
- I do my best to find answers to what I don't know.
+ I'm looking for a  full stack entry level  remote job.<br />
+ interpersonal skills, emotion inteligence.<br />
+ I do my best to find answers to what I don't know.<br />
  English | Comunication | Teamwork | Full-time available
  
  
 ##  ⚡ Skills 
 #### Git
+#### OPP 
 #### Javascript
 #### Node Js 
-#### OPP 
 #### React Js
 #### Redux
 #### Jest matches and supertest
