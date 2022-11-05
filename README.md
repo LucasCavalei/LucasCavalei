@@ -2,9 +2,9 @@
 ## 👋 Hi, I’m Lucas Cavaleiro
 
  I'm looking for a  full stack entry level  remote job.<br />
+ English | Full-time available | Comunication | Teamwork <br />
  interpersonal skills, emotion inteligence.<br />
  I do my best to find answers to what I don't know.<br />
- English | Comunication | Teamwork | Full-time available
  
  
 ##  ⚡ Skills 
