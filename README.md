@@ -23,5 +23,5 @@
 ##   🌱 I'm currently Learning 
 #####   Typescript | Webpack | Jest Mocks | SOLID principles
          
-##### 📭  ucas Cavaleiro lucas.oklp@gmail.com
-##### 🎞️🎞️ Youtube chanel 🎞️🎞️  👉 <A href="https://www.youtube.com/watch?v=e_UX89TAR1Y&t=51s" target="_blank"> See my video www.youtube.com/BLABLABLA> </a>
+##### 📭  Lucas Cavaleiro lucas.oklp@gmail.com
+##### 🎞️🎞️ Youtube chanel 🎞️🎞️  👉 <a href="https://www.youtube.com/watch?v=e_UX89TAR1Y&t=51s" target="_blank"> See my video www.youtube.com/BLA BLA BLA </a>
