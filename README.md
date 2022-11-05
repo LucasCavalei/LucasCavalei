@@ -25,5 +25,6 @@
  #####  Non Stop caffeine ☕
          
 ##### 📭 Lucas Cavaleiro lucas.oklp@gmail.com
-##### 👨 Youtube chanel
-##### <a href="https://www.youtube.com/watch?v=e_UX89TAR1Y&t=51s" target="_blank">Click to see my video</a>
+#####  Youtube chanel
+      🎞️🎞️🎞️🎞️🎞️🎞️
+##### <a href="https://www.youtube.com/watch?v=e_UX89TAR1Y&t=51s" target="_blank">click to see my video</a>
