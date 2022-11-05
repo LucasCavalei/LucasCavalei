@@ -24,4 +24,4 @@
 #####   Typescript | Webpack | Jest Mocks | SOLID principles
          
 ##### 📭  ucas Cavaleiro lucas.oklp@gmail.com
-##### 🎞️🎞️ Youtube chanel 🎞️🎞️  👉 href="https://www.youtube.com/watch?v=e_UX89TAR1Y&t=51s" target="_blank">click to see my video</a>
+##### 🎞️🎞️ Youtube chanel 🎞️🎞️  👉 href="https://www.youtube.com/watch?v=e_UX89TAR1Y&t=51s" target="_blank"> See my video www.youtube.com/BLABLABLA</a>
