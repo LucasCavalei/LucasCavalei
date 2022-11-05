@@ -22,7 +22,7 @@
  
 ##   🌱 I'm currently Learning
 
-####   Typescript | Webpack | Jest Mocks | SOLID principles
+####   Typescript   |   Webpack   |   Jest Mocks   |   SOLID principles
          
 ##### 📭  Lucas Cavaleiro lucas.oklp@gmail.com
 
