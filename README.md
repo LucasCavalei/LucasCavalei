@@ -1,19 +1,33 @@
 
-- Hi, I’m Lucas Cavaleiro
-  Em busca de oportunidade para sonhar mais alto ainda.
-    Estou interessado em Jobs Like React Js , React Native Node JS a muito mais claro.
+## 👋 Hi, I’m Lucas Cavaleiro
 
-           React Js – Redux
-           Node Js e express 
-           RESTful  APIs:
-           Autenticação usando Json Web Token       
-           manipulações de errors
-           MongoDB
-           Git
-           HTML5 e CSS
-           Responsive web design e Flex-box
-     
-       I'm not shy to speak english  
-         *** Non Stop caffeine ***
-
-
+ I'm looking for a  full stack entry level  remote job.
+ interpersonal skills, emotion inteligence.
+ I do my best to find answers to what I don't know.
+ English | Comunication | Teamwork | Full-time available
+ 
+ 
+##  ⚡ Skills 
+#### Git
+#### Javascript
+#### Node Js 
+#### OPP 
+#### React Js
+#### Redux
+#### Jest matches and supertest
+#### MongoDB
+#### SQL
+ 
+ 
+ 
+   🌱 I'm currently Learning 
+  + Typescript
+  + Babel
+  + Jest Mocks
+  + SOLID principles
+    I'm not shy to speak english  
+    Non Stop caffeine ☕
+         
+📭 Lucas Cavaleiro lucas.oklp@gmail.com
+ 👨 Youtube chanel
+ <a href="https://www.youtube.com/watch?v=e_UX89TAR1Y&t=51s" target="_blank">Click to see my video</a>
