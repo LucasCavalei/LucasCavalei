@@ -15,7 +15,7 @@
 #### React Js
 #### Redux
 #### MongoDB
-#### SQL (basics)
+#### SQL - Basics
 #### Jest matches and supertest
 #### esLint
  
