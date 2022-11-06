@@ -20,9 +20,9 @@
 #### esLint
  <br>
  <br>
- <br>
-##   🌱 I'm currently Learning
 
+##   🌱 I'm currently Learning
+<br>
 ####   Typescript   |   Webpack   |   Jest Mocks   |   SOLID principles
          
 
