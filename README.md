@@ -21,8 +21,8 @@
  <br>
  <br>
 
-##   🌱 I'm currently Learning
-<br>
+##  🌱 I'm currently Learning
+
 ####   Typescript   |   Webpack   |   Jest Mocks   |   SOLID principles
          
 
