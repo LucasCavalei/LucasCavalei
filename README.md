@@ -9,7 +9,7 @@
  
 ##  ⚡ Skills 
 #### Git
-#### OPP 
+#### OOP 
 #### Javascript
 #### Node Js 
 #### React Js
