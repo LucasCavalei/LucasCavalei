@@ -14,10 +14,10 @@
 #### Node Js 
 #### React Js
 #### Redux
-#### Jest matches and supertest
 #### MongoDB
-#### SQL
- 
+#### SQL (basics)
+#### Jest matches and supertest
+#### esLint
  
  
 ##   🌱 I'm currently Learning
