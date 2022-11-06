@@ -18,11 +18,9 @@
 #### SQL - Basics
 #### Jest matches and supertest
 #### esLint
- </ br>
- </ br>
- </ br>
- </ br>
- </ br>
+ <br>
+ <br>
+ <br>
 ##   🌱 I'm currently Learning
 
 ####   Typescript   |   Webpack   |   Jest Mocks   |   SOLID principles
