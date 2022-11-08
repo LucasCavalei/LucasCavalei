@@ -9,11 +9,12 @@
  
 ##  ⚡ Skills 
 #### Git
-#### OOP 
 #### Javascript
 #### Node Js 
 #### React Js
 #### Redux
+#### OOP 
+#### Es6 modules
 #### MongoDB
 #### SQL - Basics
 #### Jest matches and supertest
