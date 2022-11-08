@@ -14,7 +14,7 @@
 #### React Js
 #### Redux
 #### OOP 
-#### Es6 modules
+#### ES6
 #### MongoDB
 #### SQL - Basics
 #### Jest matches and supertest
