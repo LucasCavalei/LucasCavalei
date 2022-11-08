@@ -17,7 +17,7 @@
 #### ES6
 #### MongoDB
 #### SQL - Basics
-#### Jest matches and supertest
+#### JEST matches and supertest
 #### esLint
  <br>
 
