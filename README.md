@@ -13,6 +13,7 @@
 #### Node Js 
 #### React Js
 #### Redux
+#### RESTful architecture
 #### OOP 
 #### ES6
 #### MongoDB
