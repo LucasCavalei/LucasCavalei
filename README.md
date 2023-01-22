@@ -3,7 +3,7 @@
 
  I'm looking for a  full stack entry level  remote job.<br />
  English | Full-time available | Comunication | Teamwork <br />
- Interpersonal skills, emotion inteligence.<br />
+ Interpersonal skills | emotional inteligence.<br />
 
  
  
